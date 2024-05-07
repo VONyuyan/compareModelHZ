@@ -1,5 +1,5 @@
 function fitness = calcFit(item)
-    load('HZ7S6.mat');
+    load('HZ7S3.mat');
     startDistance = 20757; %18047 19126 20757 21941 -23250 -21920 -20719 -19121
     colDistance = 2;
     colSpeed = 3;

@@ -20,7 +20,7 @@
 % sheet = '莫邪塘-观音塘上行';
 % sheet = '观音塘-市民中心上行';
 % HZ7 = xlsread(filename, sheet);
-load('HZ7S5.mat');
+load('HZ7S0.mat');
 startDistance = 19126; %18047 19126 20757 21941 -23250 -21920 -20719 -19121
 colDistance = 2;
 colSpeed = 3;
